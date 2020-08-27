@@ -5,7 +5,11 @@ Default will print back the user input every 5 seconds unless specified.
 program will run until forced to close
 
 input examples:
-    <time> <phrase>
+    
+    < time > < phrase >
+    
       10 Hello there
-    <phrase>
+      
+    < phrase >
+    
       Hello there
